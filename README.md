@@ -84,3 +84,7 @@
 **ESP:** Esta simulación trasciende su naturaleza investigativa para consolidarse como un recurso fundamental en la docencia de frontera. Enseña visualmente mecánicas de fluidos cuánticos de forma palpable e integra saberes algorítmicos (solución de EDPs con Fourier) que resultan vitales en la formación integral de ciencias aplicadas y competencias digitales complejas. Resulta un cimiento excelente para comparar dinámicas bajo potenciales exóticos o rotaciones.
 
 **ENG:** This simulation transcends its research nature to establish itself as a foundational resource in advanced teaching. It visually translates quantum fluid mechanics into a palpable form and integrates algorithmic knowledge (solving PDEs with Fourier) that is vital for comprehensive training in applied sciences and complex digital skills. It serves as an excellent baseline for comparing dynamics under exotic potentials or rotations.
+
+## 🎬 Visualización dinámica / Dynamic Visualization
+
+![Vortex dynamics](vortex_annihilation.gif)
